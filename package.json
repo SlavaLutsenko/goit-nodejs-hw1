@@ -1,0 +1,24 @@
+{
+  "name": "goit-nodejs-hw1",
+  "version": "1.0.0",
+  "description": "hw1n",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "start:dev": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlavaLutsenko/goit-nodejs-hw1.git"
+  },
+  "author": "slavaLutsenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlavaLutsenko/goit-nodejs-hw1/issues"
+  },
+  "homepage": "https://github.com/SlavaLutsenko/goit-nodejs-hw1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
